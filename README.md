@@ -30,4 +30,5 @@ You can now step through the program with GDB, or just run the program to see it
 For convenience to anyone using VS Code, these steps have been added as custom tasks / launch config for VS Code.
 
 # License
-Licensed under the [MIT](/LICENSE) open source license.
+
+This project is licensed under the [GNU General Public License v3.0 or later](LICENSE) (`GPL-3.0-or-later`).
